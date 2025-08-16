@@ -43,7 +43,7 @@ What it does:
 
 ---
 
-## ⚙️ Key Components
+## Key Components
 
 ### Word lists
 
